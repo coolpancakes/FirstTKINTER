@@ -1,2 +1,2 @@
 # FirstTKINTER
-I thought this to be a pretty cool first tkinter project. 
+thought it'd be cool to upload my first basic tkinter GUI haha. 
